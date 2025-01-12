@@ -1,7 +1,6 @@
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+AU+SA&size=50&pause=1000&color=f6d036&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+Phlox22's+Github)](https://git.io/typing-svg)
-![Phlox22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phlox22&show_icons=true&theme=gruvbox)
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
