@@ -14,7 +14,7 @@
 </picture>
 </div>
 
-
+<br><br><br><br><br>
 <div align="center">
   <img src="https://img.shields.io/badge/c++-007ACC.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c-FF4154?style=for-the-badge&logo=c&logoColor=white" />&nbsp
