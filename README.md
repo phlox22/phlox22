@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/c++-007ACC.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c-FF4154?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/python-3578E5?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-a5f15f?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
 
 <br>
