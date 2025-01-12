@@ -1,7 +1,18 @@
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+AU+SA&size=50&pause=1000&color=f6d036&center=false&vCenter=true&width=1000&height=100&lines=Welcome+to+Phlox22's+Github)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+AU+SA&size=50&pause=1000&color=f6d036&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+Phlox22's+Github)](https://git.io/typing-svg)
 ![Phlox22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phlox22&show_icons=true&theme=gruvbox)
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+<div align="center">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 </div>
 
 <!--내용 부분-->
