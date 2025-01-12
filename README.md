@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD700&height=180&section=header&text=Jieun's%20Github&fontSize=90" />
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Jieun&show_icons=true&theme=merko"
     media="(prefers-color-scheme: dark)"
   />
   <source
