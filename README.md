@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=c&logoColor=00599C" />
    <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=00599C" />
 </div>
+![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
