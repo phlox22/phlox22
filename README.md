@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+AU+SA&size=50&pause=1000&color=EFF77D&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+Jieun's+Github" alt="Typing SVG" /></a>
 <div>
   <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=c&logoColor=00599C" />
 </div>
 
 - 🔭 I’m currently working on ...
