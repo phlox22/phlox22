@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/c-FF4154?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-7ccf2f?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
-<br>
 <div align="center">
   <a href="phlox22@gmail.com">
     <img
