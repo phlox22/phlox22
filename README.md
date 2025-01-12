@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=fcd940&height=180&section=header&text=Jieun's%20Github&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD700&height=180&section=header&text=Jieun's%20Github&fontSize=90" />
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
