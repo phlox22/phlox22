@@ -1,4 +1,3 @@
-<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD700&height=180&section=header&text=Jieun's%20Github&fontSize=90" />
   <picture>
@@ -26,4 +25,4 @@
       src="https://img.shields.io/badge/phlox22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
--->
+
