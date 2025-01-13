@@ -1,7 +1,7 @@
 - 🤗 Hi! I'm phlox22
 - 👨‍🏫 Pusan National University
-- 👩‍💻 Studying
-  
+
+<br>  
 <div align="left">
   <img src="https://img.shields.io/badge/c++-007ACC.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c-FF4154?style=for-the-badge&logo=c&logoColor=white" />&nbsp
