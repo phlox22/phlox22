@@ -1,9 +1,6 @@
 - 🤗 Hi! I'm JIEUN
 - 👨‍🏫 Pusan National University
 
-### BOJ
-#[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phlox22)](https://solved.ac/phlox22)
-
 <br>  
 <div align="right">
   <img src="https://img.shields.io/badge/c++-007ACC.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
