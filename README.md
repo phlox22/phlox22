@@ -1,4 +1,4 @@
-- 🤗 Hi! I'm phlox22
+- 🤗 Hi! I'm JIEUN
 - 👨‍🏫 Pusan National University
 
 <br>  
