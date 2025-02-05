@@ -9,7 +9,7 @@
 </div>
 
 ### BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddoed123)](https://solved.ac/phlox22)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phlox22)](https://solved.ac/phlox22)
 
 <div align="right">
   <a href="phlox22@gmail.com">
